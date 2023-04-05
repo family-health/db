@@ -5,9 +5,9 @@
 
 
 ```bash
-  git clone https://github.com/family-health/family-health-db.git
+  git clone https://github.com/family-health/db.git
 
-  cd family-health-db
+  cd db
 ```
     
 2) Configure sus credenciales de la base de datos en el archivo **.env**
