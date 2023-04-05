@@ -15,6 +15,7 @@
 MYSQL_ROOT_PASSWORD=password
 MYSQL_USER=user
 MYSQL_PASSWORD=password
+MYSQL_DATABASE=family_health
 ```
 
 3) Levante el servicio con
